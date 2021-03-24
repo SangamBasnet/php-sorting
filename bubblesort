@@ -1,0 +1,15 @@
+/*function bubbleSortAlgo($arr)
+{
+ if (!$len = count($arr)) {
+  return $arr;
+ }	
+ for ($y = 0; $y < $len ; f$y++) {
+  for ($x = 0; $x < $len; $x++) {
+   if ($arr[$y] < $arr[$x]) {
+    $tmp = $arr[$y];
+    $arr[$y] = $array[$x];
+    $arr[$x] = $tmp;
+   }
+  }
+ }
+}
